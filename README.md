@@ -19,4 +19,4 @@ K為使用者自己定義的常數，KNN就是選擇離自己最近的K的鄰居
 
 ### Output:
 
-![image](https://github.com/Larix/KNN/blob/master/1.jpg)
+![image](https://github.com/Cheng-Yi-Ting/KNN/blob/master/1.jpg)
